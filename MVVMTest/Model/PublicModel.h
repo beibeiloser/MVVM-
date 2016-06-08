@@ -15,5 +15,6 @@
 @property (strong, nonatomic) NSURL *imageUrl;
 @property (strong, nonatomic) NSString *date;
 @property (strong, nonatomic) NSString *text;
-
+@property (strong, nonatomic) NSString *name;
+@property (strong, nonatomic) NSString *age;
 @end
